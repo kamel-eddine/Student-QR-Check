@@ -1,5 +1,4 @@
-# Un système de gestion de l'assiduité des étudiants par smartphones" 
-
+#  A Student Attendance Management System via Smartphones
 "A Student Attendance Management System via Smartphones"
 
 A new Flutter project.
